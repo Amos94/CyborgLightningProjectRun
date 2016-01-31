@@ -5,4 +5,5 @@ package com.example.amosmadalinneculau.objects;
  */
 public class Interes {
     //to be done
+    //new
 }
